@@ -1,5 +1,6 @@
 #include<stdio.h>
-void main()
+int main()
 {
 printf("This is turbo C++");
+return 0;
 }
